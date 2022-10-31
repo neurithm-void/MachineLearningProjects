@@ -1,5 +1,5 @@
 outs:
-- md5: e4d6998356b3419916f51ff99811340a.dir
-  size: 586842509
+- md5: 6d0b503df76575ba16898fb320bf82e4.dir
+  size: 719780017
   nfiles: 89
   path: taxi_fare_data_dev

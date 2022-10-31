@@ -1,8 +1,11 @@
 **/ml-experiments-gcs-sa.json
+data/taxi_fare_data_dev/
+data/taxi_fare_data_train/
 **/taxi_fare_data_dev/**
 **/taxi_fare_data_train/**
 .vscode
 **/notebooks
+dvc.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
