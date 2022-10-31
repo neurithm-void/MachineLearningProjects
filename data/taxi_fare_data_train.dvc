@@ -1,0 +1,5 @@
+outs:
+- md5: b46e2bb8e6fa90e121a78697511c45ec.dir
+  size: 5278848519
+  nfiles: 89
+  path: taxi_fare_data_train
